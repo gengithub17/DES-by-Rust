@@ -1,0 +1,14 @@
+[package]
+name = "des"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[features]
+default = []
+DEBUG_WHOLE = []
+TEST_MODE = []
+DEBUG_TRANS = []
+DEBUG_ROUND = []
+DEBUG_ROUND_F = []
